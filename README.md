@@ -40,11 +40,6 @@ I currently work with computational models for immunological and mechanical syst
 ![DOLFINx](https://img.shields.io/badge/DOLFINx-2C3E50?style=for-the-badge)
 ![MPI](https://img.shields.io/badge/MPI-00599C?style=for-the-badge)
 
-## 👨‍💻 IDEs, Text Editors & Platforms
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 ## :wrench: Tools
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
