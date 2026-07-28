@@ -4,7 +4,7 @@
 
 `citzenfive` is my personal nickname in the development world. My real name is João Víctor, and I am a PhD student at the Federal University of Juiz de Fora.
 
-My research interests include computational modeling, numerical methods, high-performance computing, GPU computing, optimization, uncertainty/sensitivity analysis, artificial intelligence, and computational intelligence.
+My research interests include computational modeling, numerical methods, high-performance computing, GPU computing, optimization, uncertainty/sensitivity analysis, and computational intelligence.
 
 I currently work with computational models for immunological and mechanical systems, with a focus on numerical simulation, parameter fitting, and CPU/GPU-based scientific computing.
 
@@ -45,14 +45,11 @@ I currently work with computational models for immunological and mechanical syst
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ## ⏱️ My next goals are to learn
 
@@ -66,8 +63,9 @@ I currently work with computational models for immunological and mechanical syst
 ### Main Workspace
 
 ![AMD](https://img.shields.io/badge/AMD-ED1C24.svg?style=for-the-badge&logo=AMD&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
+![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 
 ### Dell Notebook
 
@@ -75,6 +73,7 @@ I currently work with computational models for immunological and mechanical syst
 ![Intel](https://img.shields.io/badge/Intel-0071C5.svg?style=for-the-badge&logo=Intel&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
+![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 
 ## 👨 You can find me in...
 
@@ -84,7 +83,7 @@ I currently work with computational models for immunological and mechanical syst
 [![LinkedIn][7]][8]
 
 [1]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[2]: mailto:oliveira.joao@engenharia.ufjf.br
+[2]: mailto:jvco.eng@gmail.com
 
 [3]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 [4]: https://www.youtube.com/channel/UCIfLRSeiI9FvgJoj3wW224w
@@ -97,6 +96,5 @@ I currently work with computational models for immunological and mechanical syst
 
 ## Statistics
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=citzenfive&count_private=true&theme=tokyonight&show_icons=true)]()
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=citzenfive)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=citzenfive&langs_count=5&theme=tokyonight)]()
