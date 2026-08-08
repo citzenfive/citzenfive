@@ -85,18 +85,10 @@ I currently work with computational models for immunological and mechanical syst
 ## 👨 You can find me in...
 
 [![Gmail][1]][2]
-[![YouTube][3]][4]
-[![Reddit][5]][6]
 [![LinkedIn][7]][8]
 
 [1]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [2]: mailto:jvco.eng@gmail.com
-
-[3]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-[4]: https://www.youtube.com/channel/UCIfLRSeiI9FvgJoj3wW224w
-
-[5]: https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white
-[6]: https://www.reddit.com/user/StormBreakerNotMuch
 
 [7]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [8]: https://www.linkedin.com/in/joão-víctor-de-oliveira-a40021230
